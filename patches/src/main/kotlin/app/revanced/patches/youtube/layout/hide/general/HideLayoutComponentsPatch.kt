@@ -231,6 +231,7 @@ val hideLayoutComponentsPatch = bytecodePatch(
             SwitchPreference("revanced_hide_movies_section"),
             SwitchPreference("revanced_hide_notify_me_button"),
             SwitchPreference("revanced_hide_playables"),
+            SwitchPreference("revanced_debloat_search_results"),
             SwitchPreference("revanced_hide_show_more_button"),
             SwitchPreference("revanced_hide_ticket_shelf"),
             SwitchPreference("revanced_hide_video_recommendation_labels"),
